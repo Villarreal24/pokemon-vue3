@@ -8,7 +8,7 @@ import Home from "./views/Home.vue";
     <div class="bg-slate-700 p-5">
       <nav class="text-white flex">
         <div class="w-full">
-          <p class="text-center font-semibold text-xl">Search of pokemon cards</p>
+          <p class="text-center font-semibold text-xl">Pokemon Cards & Battle Simulator</p>
         </div>
       </nav>
     </div>
